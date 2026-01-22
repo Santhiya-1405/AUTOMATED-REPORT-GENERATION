@@ -27,5 +27,5 @@ Technologies Used:
      4.Statistics module (data analysis)
 
 OUTPUT:
-![automated_report.pdf](https://github.com/user-attachments/files/24800992/automated_report.pdf)
+
 ![img]("https://github.com/user-attachments/assets/05ccaf5f-85fc-4514-b12c-d8f824097a32")
