@@ -28,4 +28,4 @@ Technologies Used:
 
 OUTPUT:
 
-![img]("https://github.com/user-attachments/assets/05ccaf5f-85fc-4514-b12c-d8f824097a32")
+![img](width="1039" height="885" alt="Image" src="https://github.com/user-attachments/assets/05ccaf5f-85fc-4514-b12c-d8f824097a32")
