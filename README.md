@@ -25,3 +25,6 @@ Technologies Used:
      2.ReportLab (PDF generation)
      3.CSV module (data reading)
      4.Statistics module (data analysis)
+
+OUTPUT:
+![automated_report.pdf](https://github.com/user-attachments/files/24800992/automated_report.pdf)
