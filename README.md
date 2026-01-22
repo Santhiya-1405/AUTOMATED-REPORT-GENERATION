@@ -28,4 +28,5 @@ Technologies Used:
 
 OUTPUT:
 
-![img](width="1039" height="885" alt="Image" src="https://github.com/user-attachments/assets/05ccaf5f-85fc-4514-b12c-d8f824097a32")
+<img width="1039" height="885" alt="Screenshot 2026-01-22 172244" src="https://github.com/user-attachments/assets/58a9582b-58c7-4468-bb3b-73f09d975a20" />
+
